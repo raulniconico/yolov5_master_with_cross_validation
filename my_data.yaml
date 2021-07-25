@@ -1,6 +1,0 @@
-path: data/my_data/
-train: data/my_data/train/images 
-val: data/my_data/valid/images 
-
-nc: 3 
-names: ['Baby', 'Female', 'Male']  # class name
