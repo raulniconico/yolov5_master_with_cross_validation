@@ -1,0 +1,6 @@
+path: ../data/seal_full
+train: images
+val: images
+
+nc: 3
+names: ['Baby', 'Female', 'Male']
