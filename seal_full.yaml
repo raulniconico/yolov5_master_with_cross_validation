@@ -1,6 +1,0 @@
-path: ../data/seal_full
-train: train
-val: train
-
-nc: 3
-names: ['Baby', 'Female', 'Male']
